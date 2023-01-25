@@ -10,7 +10,7 @@
     ],
     "website": "https://TroJanzHEX.me",
     "repository": "https://github.com/Abhiroybossy/Unlimited-Filter-Bot",
-    "success_url": "https://telegram.dog/Abhiroybossy",
+    "success_url": "https://telegram.dog/TrojanzHEX",
     "env": {
         "WEBHOOK": {
             "description": "No need to change this field!",
